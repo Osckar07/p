@@ -8,6 +8,7 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
        123
+        hola
         
     </Grid>
 </Window>
